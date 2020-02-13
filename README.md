@@ -52,8 +52,8 @@ NativeModules.NTLMAuthentication.login(serverURL, username, password, headers)
             // show your alert
         }
     })
-  
+  ```
 
-  ## Acknowledgments
+## Acknowledgments
 
-  Many thanks to Arnaud Guyon (https://github.com/smart-fun) for his JAVA NTLM auth) for his Android Java NTLTM code
+  Many thanks to Arnaud Guyon https://github.com/smart-fun for his Android Java NTLTM code
