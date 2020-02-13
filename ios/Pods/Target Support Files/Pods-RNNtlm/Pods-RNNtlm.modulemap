@@ -1,0 +1,6 @@
+framework module Pods_RNNtlm {
+  umbrella header "Pods-RNNtlm-umbrella.h"
+
+  export *
+  module * { export * }
+}

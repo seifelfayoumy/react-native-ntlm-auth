@@ -1,0 +1,40 @@
+source 'https://github.com/CocoaPods/Specs.git'
+target 'RNNtlm' do
+	platform :ios, '11.2'
+
+	pod 'React', :path => '../../node_modules/react-native', :subspecs => [
+    		'Core',
+    		'CxxBridge', # Include this for RN >= 0.47
+    		'DevSupport', # Include this to enable In-App Devmenu if RN >= 0.43
+    		'RCTText',
+    		'RCTNetwork',
+    		'RCTWebSocket', # Needed for debugging
+    		'RCTAnimation', # Needed for FlatList and animations running on native UI thread
+    		# Add any other subspecs you want to use in your project
+  	]
+
+	# Explicitly include Yoga if you are using RN >= 0.42.0
+	pod 'yoga', :path => '../../node_modules/react-native/ReactCommon/yoga'
+
+# Third party deps podspec link
+  pod 'DoubleConversion', :podspec => '../../node_modules/react-native/third-party-podspecs/DoubleConversion.podspec'
+  pod 'glog', :podspec => '../../node_modules/react-native/third-party-podspecs/glog.podspec'
+  pod 'Folly', :podspec => '../../node_modules/react-native/third-party-podspecs/Folly.podspec'
+
+  pod "AFNetworking", "~> 2.0"
+end
+
+target 'testapp' do
+  platform :ios, '12.0'
+  
+  pod "AFNetworking", "~> 2.0"
+
+  post_install do |installer|
+    installer.pods_project.targets.each do |target|
+        target.build_configurations.each do |config|
+            config.build_settings['BITCODE_GENERATION_MODE'] = 'bitcode'
+            config.build_settings['ENABLE_BITCODE'] = 'YES'
+        end
+    end
+  end
+end
