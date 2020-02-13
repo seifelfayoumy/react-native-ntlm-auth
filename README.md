@@ -1,5 +1,5 @@
 
-# react-native-ntlm
+# react-native-ntlm 
 
 ## Getting started
 
@@ -34,20 +34,11 @@
       compile project(':react-native-ntlm')
   	```
 
-#### Windows
-[Read it! :D](https://github.com/ReactWindows/react-native)
-
-1. In Visual Studio add the `RNNtlm.sln` in `node_modules/react-native-ntlm/windows/RNNtlm.sln` folder to their solution, reference from their app.
-2. Open up your `MainPage.cs` app
-  - Add `using Ntlm.RNNtlm;` to the usings at the top of the file
-  - Add `new RNNtlmPackage()` to the `List<IReactPackage>` returned by the `Packages` method
-
-
 ## Usage
 ```javascript
 
-NativeModules.NTLMAuthentication.login(this.serverURL, this.state.username, this.state.password, headers)
-    .then(async (response) => {
+NativeModules.NTLMAuthentication.login(serverURL, username, password, headers)
+    .then((response) => {
 
     })
     .catch((error) => {
@@ -62,3 +53,7 @@ NativeModules.NTLMAuthentication.login(this.serverURL, this.state.username, this
         }
     })
   
+
+  ## Acknowledgments
+
+  Many thanks to Arnaud Guyon (https://github.com/smart-fun) for his JAVA NTLM auth) for his Android Java NTLTM code
