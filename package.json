@@ -1,7 +1,7 @@
 {
   "name": "react-native-ntlm-auth",
   "version": "1.0.0",
-  "description": "",
+  "description": "React Native NTLM authentication module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,10 +9,26 @@
   "keywords": [
     "react-native"
   ],
-  "author": "",
-  "license": "",
+ "author": {
+    "name": "Andrei Radoi",
+    "email": "radoiandreicatalin@gmail.com"
+  },
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/Neurony/react-native-ntlm-auth.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/Neurony/react-native-ntlm-auth/blob/master/LICENSE"
+    }
+  ],
   "peerDependencies": {
     "react-native": "^0.41.2",
-    "react-native-windows": "0.41.0-rc.1"
-  }
+  },
+  "keywords": [
+    "react-native",
+    "ntlm",
+    "windows auth",
+  ],
 }
