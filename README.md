@@ -57,6 +57,5 @@ NativeModules.NTLMAuthentication.login(serverURL, username, password, headers)
 ## Acknowledgments
     
   Many thanks to:
-    Andrei Dobrescu
-    Arnaud Guyon - https://github.com/smart-fun
+    Andrei Dobrescu and Arnaud Guyon (https://github.com/smart-fun)
    
