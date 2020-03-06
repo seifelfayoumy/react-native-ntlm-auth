@@ -3,11 +3,11 @@
 
 ## Getting started
 
-`$ npm install react-native-ntlm --save`
+`$ npm install react-native-ntlm-auth --save`
 
 ### Mostly automatic installation
 
-`$ react-native link react-native-ntlm`
+`$ react-native link react-native-ntlm-auth`
 
 ### Manual installation
 
