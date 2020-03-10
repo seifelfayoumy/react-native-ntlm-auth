@@ -17,7 +17,7 @@ RCT_EXPORT_MODULE(NTLMAuthentication)
 RCT_EXPORT_METHOD(login : (NSString*)url
                   username : (NSString *)username
                   password : (NSString*) password
-                  headers : [(NSDictionary*) headers
+                  headers : (NSDictionary*) headers
                   resolver:(RCTPromiseResolveBlock)resolver
                   rejecter:(RCTPromiseRejectBlock)rejecter)
 {
@@ -45,7 +45,7 @@ RCT_EXPORT_METHOD(login : (NSString*)url
              callRejecter(INVALID_USERNAME_OR_PASSWORD_ERROR_MESSAGE);
          else   
          {
-             NSString* message=[NSString stringWithFormat: error.code];
+             NSString* message=[NSString stringWithFormat: @"%@", error.code];
              callRejecter(message);
          }
      }];
