@@ -1,1 +1,1 @@
-../../../../../../../node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTEventAnimation.h
+../../../../../../../react-native/Libraries/NativeAnimation/Drivers/RCTEventAnimation.h

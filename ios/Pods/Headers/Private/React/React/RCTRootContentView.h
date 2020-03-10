@@ -1,1 +1,1 @@
-../../../../../../../node_modules/react-native/React/Base/RCTRootContentView.h
+../../../../../../../react-native/React/Base/RCTRootContentView.h

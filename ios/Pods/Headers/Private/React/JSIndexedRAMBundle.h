@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/ReactCommon/cxxreact/JSIndexedRAMBundle.h
+../../../../../../react-native/ReactCommon/cxxreact/JSIndexedRAMBundle.h

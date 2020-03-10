@@ -1,1 +1,1 @@
-../../../../../../../node_modules/react-native/React/Views/ScrollView/RCTScrollView.h
+../../../../../../../react-native/React/Views/ScrollView/RCTScrollView.h

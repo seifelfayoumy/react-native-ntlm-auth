@@ -1,1 +1,1 @@
-../../../../../../../node_modules/react-native/React/Modules/RCTExceptionsManager.h
+../../../../../../../react-native/React/Modules/RCTExceptionsManager.h

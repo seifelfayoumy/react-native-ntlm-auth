@@ -32,14 +32,9 @@
 		B3E7B5881CC2AC0600A0062D /* RNNtlm.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RNNtlm.h; sourceTree = "<group>"; };
 		B3E7B5891CC2AC0600A0062D /* RNNtlm.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RNNtlm.m; sourceTree = "<group>"; };
 		B8F3D0A8F0A4A316C1CEC3D9 /* Pods-RNNtlm.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNNtlm.debug.xcconfig"; path = "Target Support Files/Pods-RNNtlm/Pods-RNNtlm.debug.xcconfig"; sourceTree = "<group>"; };
-		D32CF019223FE2CD005DED90 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		D32CF01B223FE2CD005DED90 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		D32CF01E223FE2CD005DED90 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		D32CF020223FE2CD005DED90 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D3506C93223FD7F000AB12A3 /* HttpClient.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HttpClient.h; sourceTree = "<group>"; };
 		D3506C94223FD7F000AB12A3 /* HttpClient.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HttpClient.m; sourceTree = "<group>"; };
 		D3506CF9223FDF0F00AB12A3 /* libRNNtlm.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libRNNtlm.a; path = ../../ios/tableauMobile/libRNNtlm.a; sourceTree = "<group>"; };
-		D3506D47223FE17500AB12A3 /* test.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = test.m; sourceTree = "<group>"; };
 		DF9A855EC8F97638A4498CD4 /* libPods-testapp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-testapp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1586B696EC22AABE289B44A /* libPods-RNNtlm.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RNNtlm.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -78,12 +73,10 @@
 		58B511D21A9E6C8500147676 = {
 			isa = PBXGroup;
 			children = (
-				D3506D47223FE17500AB12A3 /* test.m */,
 				D3506C93223FD7F000AB12A3 /* HttpClient.h */,
 				D3506C94223FD7F000AB12A3 /* HttpClient.m */,
 				B3E7B5881CC2AC0600A0062D /* RNNtlm.h */,
 				B3E7B5891CC2AC0600A0062D /* RNNtlm.m */,
-				D32CF011223FE2CC005DED90 /* testapp */,
 				134814211AA4EA7D00B7C361 /* Products */,
 				0C2A7D188BC32EE1FE3ABA14 /* Pods */,
 				8BC7983BD4E8428F62C4F06D /* Frameworks */,
@@ -98,17 +91,6 @@
 				DF9A855EC8F97638A4498CD4 /* libPods-testapp.a */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		D32CF011223FE2CC005DED90 /* testapp */ = {
-			isa = PBXGroup;
-			children = (
-				D32CF018223FE2CC005DED90 /* Main.storyboard */,
-				D32CF01B223FE2CD005DED90 /* Assets.xcassets */,
-				D32CF01D223FE2CD005DED90 /* LaunchScreen.storyboard */,
-				D32CF020223FE2CD005DED90 /* Info.plist */,
-			);
-			path = testapp;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -197,25 +179,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXVariantGroup section */
-		D32CF018223FE2CC005DED90 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				D32CF019223FE2CD005DED90 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		D32CF01D223FE2CD005DED90 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				D32CF01E223FE2CD005DED90 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		58B511ED1A9E6C8500147676 /* Debug */ = {

@@ -1,1 +1,1 @@
-../../../../../../../node_modules/react-native/React/Base/RCTMultipartStreamReader.h
+../../../../../../../react-native/React/Base/RCTMultipartStreamReader.h

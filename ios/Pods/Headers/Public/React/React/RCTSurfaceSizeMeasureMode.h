@@ -1,1 +1,1 @@
-../../../../../../../node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceSizeMeasureMode.h
+../../../../../../../react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceSizeMeasureMode.h

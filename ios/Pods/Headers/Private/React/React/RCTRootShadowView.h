@@ -1,1 +1,1 @@
-../../../../../../../node_modules/react-native/React/Views/RCTRootShadowView.h
+../../../../../../../react-native/React/Views/RCTRootShadowView.h

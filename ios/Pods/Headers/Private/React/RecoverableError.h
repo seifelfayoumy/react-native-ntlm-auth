@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/ReactCommon/cxxreact/RecoverableError.h
+../../../../../../react-native/ReactCommon/cxxreact/RecoverableError.h

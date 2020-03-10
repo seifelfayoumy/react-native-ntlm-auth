@@ -1,1 +1,1 @@
-../../../../../../../node_modules/react-native/React/Base/RCTImageSource.h
+../../../../../../../react-native/React/Base/RCTImageSource.h

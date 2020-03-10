@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.h
+../../../../../../react-native/ReactCommon/jsinspector/InspectorInterfaces.h

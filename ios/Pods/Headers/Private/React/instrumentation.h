@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/ReactCommon/jsi/instrumentation.h
+../../../../../../react-native/ReactCommon/jsi/instrumentation.h

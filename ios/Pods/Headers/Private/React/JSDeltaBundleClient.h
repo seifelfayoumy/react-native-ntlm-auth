@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/ReactCommon/cxxreact/JSDeltaBundleClient.h
+../../../../../../react-native/ReactCommon/cxxreact/JSDeltaBundleClient.h

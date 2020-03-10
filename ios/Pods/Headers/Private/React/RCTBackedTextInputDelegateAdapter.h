@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegateAdapter.h
+../../../../../../react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegateAdapter.h

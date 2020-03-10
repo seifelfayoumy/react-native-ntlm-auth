@@ -1,1 +1,1 @@
-../../../../../../../node_modules/react-native/React/Views/RCTModalManager.h
+../../../../../../../react-native/React/Views/RCTModalManager.h

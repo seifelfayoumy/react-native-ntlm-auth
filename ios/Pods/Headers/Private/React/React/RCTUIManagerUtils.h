@@ -1,1 +1,1 @@
-../../../../../../../node_modules/react-native/React/Modules/RCTUIManagerUtils.h
+../../../../../../../react-native/React/Modules/RCTUIManagerUtils.h

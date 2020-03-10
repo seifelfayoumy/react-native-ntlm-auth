@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/Libraries/Text/TextInput/Singleline/RCTSinglelineTextInputView.h
+../../../../../../react-native/Libraries/Text/TextInput/Singleline/RCTSinglelineTextInputView.h

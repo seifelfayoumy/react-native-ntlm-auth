@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryView.h
+../../../../../../react-native/Libraries/Text/TextInput/RCTInputAccessoryView.h

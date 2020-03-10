@@ -1,1 +1,1 @@
-../../../../../../../node_modules/react-native/React/Base/RCTDefines.h
+../../../../../../../react-native/React/Base/RCTDefines.h

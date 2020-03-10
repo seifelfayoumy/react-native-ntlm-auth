@@ -1,1 +1,1 @@
-../../../../../../../node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h
+../../../../../../../react-native/React/Views/RCTAutoInsetsProtocol.h

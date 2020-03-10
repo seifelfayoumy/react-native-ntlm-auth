@@ -1,1 +1,1 @@
-../../../../../../../node_modules/react-native/React/Modules/RCTAccessibilityManager.h
+../../../../../../../react-native/React/Modules/RCTAccessibilityManager.h

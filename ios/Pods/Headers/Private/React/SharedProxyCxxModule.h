@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/ReactCommon/cxxreact/SharedProxyCxxModule.h
+../../../../../../react-native/ReactCommon/cxxreact/SharedProxyCxxModule.h

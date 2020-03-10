@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/React/DevSupport/RCTPackagerConnection.h
+../../../../../../react-native/React/DevSupport/RCTPackagerConnection.h

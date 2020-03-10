@@ -1,1 +1,1 @@
-../../../../../../../node_modules/react-native/React/Base/RCTMultipartDataTask.h
+../../../../../../../react-native/React/Base/RCTMultipartDataTask.h

@@ -1,1 +1,1 @@
-../../../../../../../node_modules/react-native/React/Views/RCTModalHostView.h
+../../../../../../../react-native/React/Views/RCTModalHostView.h

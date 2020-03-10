@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/Libraries/Network/RCTHTTPRequestHandler.h
+../../../../../../react-native/Libraries/Network/RCTHTTPRequestHandler.h

@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/React/CxxBridge/RCTMessageThread.h
+../../../../../../react-native/React/CxxBridge/RCTMessageThread.h

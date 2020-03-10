@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/ReactCommon/cxxreact/RAMBundleRegistry.h
+../../../../../../react-native/ReactCommon/cxxreact/RAMBundleRegistry.h

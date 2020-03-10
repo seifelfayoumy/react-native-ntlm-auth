@@ -1,1 +1,1 @@
-../../../../../../../node_modules/react-native/React/Base/RCTBridgeMethod.h
+../../../../../../../react-native/React/Base/RCTBridgeMethod.h

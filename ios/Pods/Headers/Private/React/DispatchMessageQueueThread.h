@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/React/CxxModule/DispatchMessageQueueThread.h
+../../../../../../react-native/React/CxxModule/DispatchMessageQueueThread.h

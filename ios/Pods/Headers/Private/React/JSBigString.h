@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/ReactCommon/cxxreact/JSBigString.h
+../../../../../../react-native/ReactCommon/cxxreact/JSBigString.h

@@ -1,1 +1,1 @@
-../../../../../../../node_modules/react-native/React/Modules/RCTStatusBarManager.h
+../../../../../../../react-native/React/Modules/RCTStatusBarManager.h

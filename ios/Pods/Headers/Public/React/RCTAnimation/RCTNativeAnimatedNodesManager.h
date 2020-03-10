@@ -1,1 +1,1 @@
-../../../../../../../node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.h
+../../../../../../../react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.h

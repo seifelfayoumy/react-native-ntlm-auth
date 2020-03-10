@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/ReactCommon/cxxreact/JsArgumentHelpers-inl.h
+../../../../../../react-native/ReactCommon/cxxreact/JsArgumentHelpers-inl.h

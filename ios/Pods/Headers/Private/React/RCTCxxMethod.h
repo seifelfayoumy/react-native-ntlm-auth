@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/React/CxxModule/RCTCxxMethod.h
+../../../../../../react-native/React/CxxModule/RCTCxxMethod.h

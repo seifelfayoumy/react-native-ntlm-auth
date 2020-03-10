@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/Libraries/Text/VirtualText/RCTVirtualTextShadowView.h
+../../../../../../react-native/Libraries/Text/VirtualText/RCTVirtualTextShadowView.h

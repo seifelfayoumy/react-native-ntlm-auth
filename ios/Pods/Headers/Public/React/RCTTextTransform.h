@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/Libraries/Text/RCTTextTransform.h
+../../../../../../react-native/Libraries/Text/RCTTextTransform.h

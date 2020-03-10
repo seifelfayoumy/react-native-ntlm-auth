@@ -1,1 +1,1 @@
-../../../../../../../node_modules/react-native/React/Base/RCTErrorInfo.h
+../../../../../../../react-native/React/Base/RCTErrorInfo.h

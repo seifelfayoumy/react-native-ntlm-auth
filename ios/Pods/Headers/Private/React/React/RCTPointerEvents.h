@@ -1,1 +1,1 @@
-../../../../../../../node_modules/react-native/React/Views/RCTPointerEvents.h
+../../../../../../../react-native/React/Views/RCTPointerEvents.h

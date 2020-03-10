@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/ReactCommon/jsi/JSIDynamic.h
+../../../../../../react-native/ReactCommon/jsi/JSIDynamic.h

@@ -1,1 +1,1 @@
-../../../../../../../node_modules/react-native/React/Views/RCTConvert+Transform.h
+../../../../../../../react-native/React/Views/RCTConvert+Transform.h

@@ -1,1 +1,1 @@
-../../../../../../../node_modules/react-native/React/Modules/RCTRedBoxExtraDataViewController.h
+../../../../../../../react-native/React/Modules/RCTRedBoxExtraDataViewController.h

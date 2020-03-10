@@ -1,1 +1,1 @@
-../../../../../../../node_modules/react-native/React/Views/RCTWrapperViewController.h
+../../../../../../../react-native/React/Views/RCTWrapperViewController.h

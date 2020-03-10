@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h
+../../../../../../react-native/ReactCommon/yoga/yoga/YGMacros.h

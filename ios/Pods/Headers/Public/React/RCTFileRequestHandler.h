@@ -1,1 +1,1 @@
-../../../../../../node_modules/react-native/Libraries/Network/RCTFileRequestHandler.h
+../../../../../../react-native/Libraries/Network/RCTFileRequestHandler.h

@@ -1,1 +1,1 @@
-../../../../../../../node_modules/react-native/Libraries/NativeAnimation/RCTAnimationUtils.h
+../../../../../../../react-native/Libraries/NativeAnimation/RCTAnimationUtils.h

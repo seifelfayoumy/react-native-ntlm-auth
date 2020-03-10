@@ -1,1 +1,1 @@
-../../../../../../../node_modules/react-native/React/Views/RCTFont.h
+../../../../../../../react-native/React/Views/RCTFont.h
