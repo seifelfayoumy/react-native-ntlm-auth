@@ -6,9 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "react-native"
-  ],
  "author": {
     "name": "Andrei Radoi",
     "email": "radoiandreicatalin@gmail.com"
@@ -28,7 +25,6 @@
   },
   "keywords": [
     "react-native",
-    "ntlm",
-    "windows auth",
-  ],
+    "ntlm"
+  ]
 }
