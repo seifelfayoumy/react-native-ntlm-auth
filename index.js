@@ -1,6 +1,5 @@
-
 import { NativeModules } from 'react-native';
 
-const { RNNtlm } = NativeModules;
+const { NtlmAuth } = NativeModules;
 
-export default RNNtlm;
+export default NtlmAuth;
