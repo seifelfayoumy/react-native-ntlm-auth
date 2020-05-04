@@ -18,6 +18,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 import java.util.concurrent.TimeUnit;
+import com.ReactJsonConvert;
 
 import okhttp3.Call;
 import okhttp3.Callback;
