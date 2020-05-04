@@ -11,6 +11,9 @@
 ```cd /ios``` <br>
 `pod install`
 
+### Android
+Make sure you use jetifier and run it with npx after npm install
+The package should be available automatically.
 
 ### React Native < 0.60
 
