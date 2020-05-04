@@ -1,8 +1,5 @@
 package com.neurony.ntlm;
 
-import android.os.Bundle;
-
-import com.ReactJsonConvert;
 import com.facebook.react.bridge.Promise;
 import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.bridge.ReactContextBaseJavaModule;
@@ -16,6 +13,7 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.io.IOException;
+import java.net.UnknownHostException;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
@@ -31,7 +29,8 @@ import okhttp3.ResponseBody;
 
 public class AuthenticationModule extends ReactContextBaseJavaModule
 {
-    public static final String INVALID_USERNAME_OR_PASSWORD_ERROR_MESSAGE = "Invalid username or password";
+    public static final String NO_INTERNET_CONNECTION_ERROR_MESSAGE = "NO_INTERNET_CONNECTION_ERROR_MESSAGE";
+    public static final String INVALID_USERNAME_OR_PASSWORD_ERROR_MESSAGE = "INVALID_USERNAME_OR_PASSWORD_ERROR_MESSAGE";
 
     public AuthenticationModule(ReactApplicationContext reactContext)
     {
@@ -100,6 +99,8 @@ public class AuthenticationModule extends ReactContextBaseJavaModule
                 {
                     if (authenticator.invalidUsernameOrPassword)
                         onResult.reject(new RuntimeException(INVALID_USERNAME_OR_PASSWORD_ERROR_MESSAGE));
+                    else if (ex instanceof UnknownHostException)
+                        onResult.reject(new RuntimeException(NO_INTERNET_CONNECTION_ERROR_MESSAGE));
                     else onResult.reject(ex);
                 }
 
